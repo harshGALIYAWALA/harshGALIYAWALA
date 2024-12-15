@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development - Using Node.js, Express.js, and MongoDB**
 
-- 💬 Ask me about **Android Studio**
+- 💬 Ask me about **Android Studio, Backend**
 
 - 📫 How to reach me **harshgaliyawala63@gmail.com**
 
