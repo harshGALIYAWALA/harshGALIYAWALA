@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Food Ordering App](https://github.com/harshGALIYAWALA/Dish-Flow)
 
-- 🌱 I’m currently learning **dsa**
+- 🌱 I’m currently learning **web**
 
 - 💬 Ask me about **Android Studio, Backend**
 
