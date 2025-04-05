@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshgaliyawala" alt="harshgaliyawala" /></a> </p>
 
-- 🔭 I’m currently working on [Food Ordering App](https://github.com/harshGALIYAWALA/Dish-Flow)
+- 🔭 I’m currently working on [Safe Track]
 
-- 🌱 I’m currently learning **web**
+- 🌱 I’m currently learning **jetpack_Compose**
 
 - 💬 Ask me about **Android Studio, Backend**
 
