@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Safe Track]
 
-- 🌱 I’m currently learning **jetpack_Compose**
+- 🌱 I’m currently learning **jetpack_Compose/dsa**
 
 - 💬 Ask me about **Android Studio, Backend**
 
